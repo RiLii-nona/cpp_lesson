@@ -1,0 +1,11 @@
+/Users/ri_lii/Desktop/git/PhyWater-main/build/CMakeFiles/phy_water.dir
+/Users/ri_lii/Desktop/git/PhyWater-main/build/CMakeFiles/edit_cache.dir
+/Users/ri_lii/Desktop/git/PhyWater-main/build/CMakeFiles/rebuild_cache.dir
+/Users/ri_lii/Desktop/git/PhyWater-main/build/SDL/CMakeFiles/sdl_headers_copy.dir
+/Users/ri_lii/Desktop/git/PhyWater-main/build/SDL/CMakeFiles/SDL2main.dir
+/Users/ri_lii/Desktop/git/PhyWater-main/build/SDL/CMakeFiles/SDL2.dir
+/Users/ri_lii/Desktop/git/PhyWater-main/build/SDL/CMakeFiles/SDL2-static.dir
+/Users/ri_lii/Desktop/git/PhyWater-main/build/SDL/CMakeFiles/SDL2_test.dir
+/Users/ri_lii/Desktop/git/PhyWater-main/build/SDL/CMakeFiles/uninstall.dir
+/Users/ri_lii/Desktop/git/PhyWater-main/build/SDL/CMakeFiles/edit_cache.dir
+/Users/ri_lii/Desktop/git/PhyWater-main/build/SDL/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/Users/ri_lii/Desktop/git/PhyWater-main/build/SDL/CMakeFiles/CheckOBJC/CMakeFiles/edit_cache.dir
+/Users/ri_lii/Desktop/git/PhyWater-main/build/SDL/CMakeFiles/CheckOBJC/CMakeFiles/rebuild_cache.dir
